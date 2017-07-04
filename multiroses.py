@@ -1,4 +1,4 @@
-from nestpyth import nest_squares
+from pythroses import nest_squares
         
 def gcd(a, b):
     if b > a:
