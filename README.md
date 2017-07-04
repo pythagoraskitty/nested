@@ -1,2 +1,2 @@
-# nested
-Generates nested squares representing pythagorean triples
+# roses
+Generates Pythagorean Roses, i.e. nested squares representing Pythagorean triples, in LaTeX
