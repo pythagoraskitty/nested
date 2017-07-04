@@ -95,7 +95,7 @@ def make_tex_str(scale, a, b, num_sq, color = "black", places = 3):
     page_size = scale * 4/5
     pic_size = scale * 4/5
     side_margin = -1
-    top_margin = -7/8 * ((197 + 3 * scale)/(96 + 2 * scale))
+    top_margin = -7/8 * ((127 + scale)/(61 + scale))
     data = brace("\\documentclass", "letter", "\n")
     data += brace("\\usepackage", "tikz", "\n\n")
     data += "\\pdfpagewidth " + str(page_size) + "in\n"
